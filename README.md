@@ -12,3 +12,5 @@ For use this aplication follow this steps:
 4 - Execute this command: npm install
 
 5 - And execute this commmand: npm start
+
+attention: Node.Js and npm package are required
